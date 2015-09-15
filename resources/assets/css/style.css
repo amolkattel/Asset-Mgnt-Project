@@ -1,0 +1,11 @@
+.grid-title{
+	border-bottom: 1px solid #ccc;
+    margin-bottom: 30px;
+}
+.grid-title h1{
+	font-size:26px;
+}
+.grid-title .pull-right {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}

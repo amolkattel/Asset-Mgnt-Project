@@ -1,0 +1,1825 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"belongsT",
+				"belongsToMany〔function〕"
+			],
+			[
+				"individ",
+				"individual"
+			],
+			[
+				"base",
+				"baseDir"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"bs3-form",
+				"bs3-form:horizontal	bs3-form-horizontal"
+			],
+			[
+				"bs3-btn",
+				"bs3-button:primary	bs3-button-primary"
+			],
+			[
+				"bs3-table",
+				"bs3-table:striped	bs3-table-striped"
+			],
+			[
+				"lab",
+				"label	<label> with <input>"
+			],
+			[
+				"bs3-label",
+				"bs3-form:label	bs3-form-label"
+			],
+			[
+				"subsc",
+				"subscribe_all"
+			],
+			[
+				"list-styel",
+				"list-style"
+			],
+			[
+				"ge",
+				"get_user_folder〔function〕"
+			],
+			[
+				"se",
+				"images_session〔function〕"
+			],
+			[
+				"bs3-aler",
+				"bs3-alert:success	bs3-alert-success"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"revision",
+				"revision_where"
+			],
+			[
+				"publish",
+				"publish_lang"
+			],
+			[
+				"title",
+				"title_limiter〔function〕"
+			],
+			[
+				"titel",
+				"title_limiter〔function〕"
+			],
+			[
+				"function",
+				"function_exists()	Core Function"
+			],
+			[
+				"delete",
+				"delete_article"
+			],
+			[
+				"featured",
+				"$featured_query〔variable〕"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"func_g",
+				"func_get_args〔function〕"
+			],
+			[
+				"popul",
+				"$popular_articles〔variable〕"
+			],
+			[
+				"labe",
+				"label	<label>"
+			],
+			[
+				"feature",
+				"$featured_articles〔variable〕"
+			],
+			[
+				"sub",
+				"$subcategory_slug〔variable〕"
+			],
+			[
+				"far",
+				"$farticle〔variable〕"
+			],
+			[
+				"indivi",
+				"$individual_of_month〔variable〕"
+			],
+			[
+				"indi",
+				"$individual_of_month〔variable〕"
+			],
+			[
+				"individual",
+				"individual_of_month"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"category",
+				"$category_id〔variable〕"
+			],
+			[
+				"bs3-al",
+				"bs3-alert:info	bs3-alert-info"
+			],
+			[
+				"update",
+				"$update_data〔variable〕"
+			],
+			[
+				"related",
+				"$related_ids〔variable〕"
+			],
+			[
+				"filter",
+				"$filter_form〔variable〕"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"solarium",
+				"solarium_config"
+			],
+			[
+				"article_",
+				"article_solr_m"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"scri",
+				"script	Tag"
+			],
+			[
+				"sty",
+				"style	Tag"
+			],
+			[
+				"status",
+				"$status_count〔variable〕"
+			],
+			[
+				"category_pare",
+				"category_parents"
+			],
+			[
+				"uri",
+				"uri_segment	CI - URI Segment"
+			],
+			[
+				"submit",
+				"$submit_lang〔variable〕"
+			],
+			[
+				"bs3-input",
+				"bs3-input:text	bs3-input-text"
+			],
+			[
+				"post",
+				"post_langs"
+			],
+			[
+				"class",
+				"class_exists〔function〕"
+			],
+			[
+				"article_folder",
+				"article_folder_id"
+			],
+			[
+				"folder",
+				"folder_container"
+			],
+			[
+				"ses",
+				"session_set_userdata	CI - Session - Adding Custom Session Data"
+			],
+			[
+				"parent",
+				"$parent_id〔variable〕"
+			],
+			[
+				"download",
+				"download_template_id"
+			],
+			[
+				"upload",
+				"upload_template_id"
+			],
+			[
+				"lang",
+				"lang_code"
+			],
+			[
+				"total",
+				"totalItems"
+			],
+			[
+				"return",
+				"$return_data〔variable〕"
+			],
+			[
+				"article_lang",
+				"article_lang_id"
+			],
+			[
+				"article_approve",
+				"article_approved_by"
+			],
+			[
+				"article",
+				"$article_id〔variable〕"
+			],
+			[
+				"reviewe",
+				"$reviewer_id〔variable〕"
+			],
+			[
+				"text",
+				"textarea	<textarea>"
+			],
+			[
+				"reviewer",
+				"reviewer_id"
+			],
+			[
+				"related_arti",
+				"related_article_id"
+			],
+			[
+				"relate",
+				"related_article_where"
+			],
+			[
+				"sear",
+				"search_text"
+			],
+			[
+				"bs3-addon",
+				"bs3-input-group:addon:text	bs3-input-group-addon-text"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"category_",
+				"category_title"
+			],
+			[
+				"team_categor",
+				"team_category_slug"
+			],
+			[
+				"team_category",
+				"team_category_title"
+			],
+			[
+				"primary",
+				"$primary_lang〔variable〕"
+			],
+			[
+				"prima",
+				"$primary_lang〔variable〕"
+			],
+			[
+				"default",
+				"default_value"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"tagsinput",
+				"tagsinput?term=\"+query"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"amenities",
+				"$amenities_field〔variable〕"
+			],
+			[
+				"assign",
+				"$assign_status〔variable〕"
+			],
+			[
+				"analy",
+				"analyze_text"
+			],
+			[
+				"article_rev",
+				"article_revision_m"
+			],
+			[
+				"save",
+				"_save_revisions〔function〕"
+			],
+			[
+				"session",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"var_",
+				"var_dump〔function〕"
+			],
+			[
+				"inputs",
+				"inputs	input - submit"
+			],
+			[
+				"field_name",
+				"$field_name_en〔variable〕"
+			],
+			[
+				"_la",
+				"$_langfile〔variable〕"
+			],
+			[
+				"var",
+				"var_dump()	standard Function"
+			],
+			[
+				"_send_em",
+				"_send_email_subscribers"
+			],
+			[
+				"press_s",
+				"press_status_ids"
+			],
+			[
+				"subs",
+				"subscribe_all"
+			],
+			[
+				"paying",
+				"paying_source_recipient"
+			],
+			[
+				"_send",
+				"_send_email_fulltext"
+			],
+			[
+				"_s",
+				"_send_email_paying_source"
+			],
+			[
+				"_ser",
+				"$_SERVER〔variable〕"
+			],
+			[
+				"_se",
+				"$_SERVER〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/User.php",
+			"settings":
+			{
+				"buffer_size": 1667,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/HasRoles.php",
+			"settings":
+			{
+				"buffer_size": 576,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/UsersController.php",
+			"settings":
+			{
+				"buffer_size": 2669,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2015_09_10_100000_create_users_table.php",
+			"settings":
+			{
+				"buffer_size": 892,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/users/form.blade.php",
+			"settings":
+			{
+				"buffer_size": 2314,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"artisan make",
+				"Laravel Artisan: Make: Controller"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"lorem",
+				"Add some Lorem Gibson"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bs3-form",
+				"Snippet: bs3-form-label"
+			],
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"jquery ",
+				"Snippet: jQuery Event"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bs3-input-add",
+				"Snippet: bs3-input-group-addon"
+			],
+			[
+				"bs3-",
+				"Snippet: bs3-carousel"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 821.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/apple/Sites/college/akproject",
+		"/Users/apple/Sites/college/akproject/database"
+	],
+	"file_history":
+	[
+		"/Users/apple/Sites/college/akproject/app/Http/routes.php",
+		"/Users/apple/Sites/college/akproject/app/Permission.php",
+		"/Users/apple/Sites/college/akproject/app/Role.php",
+		"/Users/apple/Sites/college/akproject/resources/views/roles/index.blade.php",
+		"/Users/apple/Sites/college/akproject/resources/views/roles/form.blade.php",
+		"/Users/apple/Sites/college/akproject/resources/views/permissions/form.blade.php",
+		"/Users/apple/Sites/college/akproject/resources/views/permissions/index.blade.php",
+		"/Users/apple/Sites/college/akproject/database/migrations/2015_09_12_131321_create_roles_tables.php",
+		"/Users/apple/Sites/college/akproject/app/Http/Controllers/RolesController.php",
+		"/Users/apple/Sites/college/akproject/app/Http/Controllers/PermissionsController.php",
+		"/Users/apple/Sites/college/akproject/resources/views/layout.blade.php",
+		"/Users/apple/Sites/college/akproject/resources/views/pages/home.blade.php",
+		"/Users/apple/Sites/college/akproject/app/User.php",
+		"/Users/apple/Sites/college/akproject/app/HasRoles.php",
+		"/Users/apple/Sites/college/akproject/app/Providers/AuthServiceProvider.php",
+		"/Users/apple/Sites/college/akproject/resources/views/home.blade.php",
+		"/Users/apple/Sites/college/akproject/app/Http/Middleware/Authenticate.php",
+		"/Users/apple/Sites/college/akproject/app/Http/Controllers/DepartmentsController.php",
+		"/Users/apple/Sites/college/akproject/app/Http/Controllers/UsersController.php",
+		"/Users/apple/Sites/college/akproject/resources/views/users/index.blade.php",
+		"/Users/apple/Sites/college/akproject/resources/assets/css/style.css",
+		"/Users/apple/Sites/college/akproject/gulpfile.js",
+		"/Users/apple/Sites/college/akproject/resources/views/departments/index.blade.php",
+		"/Users/apple/Sites/college/akproject/app/Http/Controllers/DepartmentController.php",
+		"/Users/apple/Sites/project-flyer/resources/views/flyers/index.blade.php",
+		"/Users/apple/Sites/college/akproject/app/Http/Controllers/Controller.php",
+		"/Users/apple/Sites/college/akproject/app/Http/Controllers/PagesController.php",
+		"/Users/apple/Sites/college/akproject/database/migrations/2015_09_10_100000_create_users_table.php",
+		"/Users/apple/Sites/college/akproject/app/Department.php",
+		"/Users/apple/Sites/college/akproject/database/migrations/2015_09_10_000000_create_department_table.php",
+		"/Users/apple/Sites/college/akproject/database/factories/ModelFactory.php",
+		"/Users/apple/Sites/college/akproject/app/Company.php",
+		"/Users/apple/Sites/college/akproject/database/migrations/2015_09_10_000000_create_company_table.php",
+		"/Users/apple/Sites/college/akproject/resources/views/auth/register.blade.php",
+		"/Users/apple/Sites/college/akproject/database/migrations/2015_09_10_300000_create_department_table.php",
+		"/Users/apple/Sites/college/akproject/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/Users/apple/Sites/college/akproject/database/migrations/2015_09_10_092319_create_company_table.php",
+		"/Users/apple/Sites/college/akproject/database/migrations/2015_09_10_092422_create_department_table.php",
+		"/Users/apple/Sites/college/akproject/database/migrations/2015_09_08_170532_create_departments_table.php",
+		"/Users/apple/Sites/college/akproject/.env",
+		"/Users/apple/Sites/college/akproject/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/apple/Sites/college/akproject/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php",
+		"/Users/apple/Sites/college/akproject/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/Users/apple/Sites/college/akproject/database/migrations/2015_09_08_171311_create_floor_table.php",
+		"/etc/hosts",
+		"/Users/apple/.homestead/Homestead.yaml",
+		"/Users/apple/Sites/gogulf/tawfeer/system/cms/config/hooks.php",
+		"/Users/apple/Sites/gogulf/tawfeer/addons/shared_addons/modules/membership/controllers/admin/membership.php",
+		"/Users/apple/Sites/gogulf/tawfeer/addons/shared_addons/modules/membership/widgets/admin_members/views/form.php",
+		"/Users/apple/Sites/gogulf/tawfeer/addons/shared_addons/modules/membership/views/admin/member/add.php",
+		"/Users/apple/Sites/gogulf/tawfeer/addons/shared_addons/modules/membership/views/admin/membership/add.php",
+		"/Users/apple/Sites/gogulf/tawfeer/addons/shared_addons/modules/partner/views/index.php",
+		"/Users/apple/Sites/gogulf/tawfeer/.gitignore",
+		"/Users/apple/Sites/gogulf/tawfeer/addons/shared_addons/modules/membership/controllers/member.php",
+		"/Users/apple/Sites/gogulf/tawfeer/addons/shared_addons/modules/membership/controllers/membership.php",
+		"/Users/apple/Sites/gogulf/tawfeer/addons/shared_addons/modules/membership/controllers/signup.php",
+		"/Users/apple/Sites/gogulf/tawfeer/addons/shared_addons/modules/urlseo/plugin.php",
+		"/Users/apple/Sites/gogulf/tawfeer/addons/shared_addons/helpers/common_helper.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/models/article_tag_m.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/controllers/article.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/models/article_m.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/controllers/reviewer.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/controllers/editor.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/events.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/views/admin/index.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/controllers/admin.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/language/english/article_lang.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/language/arabic/article_lang.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/themes/nce/views/partials/header.html",
+		"/Users/apple/Sites/gogulf/viessmann/uploads/.gitignore",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/themes/nce/css/style.css",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/views/tag.php",
+		"/Users/apple/Sites/gogulf/nce/system/cms/config/routes.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/views/view.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/views/partials/simple_filter.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/widgets/individual/individual.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/views/explore.php",
+		"/Users/apple/Sites/gogulf/nce/.gitignore",
+		"/Users/apple/Sites/gogulf/nce/system/cms/modules/streams_core/controllers/ajax.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/views/index.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/views/partials/article_thumb_block.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/views/advanced.php",
+		"/Users/apple/Sites/gogulf/viessmann/questions.php",
+		"/Users/apple/Sites/gogulf/viessmann/partials/header.php",
+		"/Users/apple/Sites/gogulf/viessmann/ajax/settings.php",
+		"/Users/apple/Sites/project-flyer/resources/views/flyers/show.blade.php",
+		"/Users/apple/Sites/gogulf/viessmann/partials/question/contact.php",
+		"/Users/apple/Sites/gogulf/viessmann/partials/topBanner.php",
+		"/Users/apple/Sites/gogulf/viessmann/classes/variables.php",
+		"/Users/apple/Sites/project-flyer/app/Photo.php",
+		"/Users/apple/Sites/project-flyer/app/Flyer.php",
+		"/Users/apple/Sites/project-flyer/app/Http/Controllers/FlyersController.php",
+		"/Users/apple/Sites/project-flyer/app/Http/routes.php",
+		"/Users/apple/Sites/project-flyer/vendor/symfony/http-foundation/File/UploadedFile.php",
+		"/Users/apple/Sites/project-flyer/resources/views/layout.blade.php",
+		"/Users/apple/Sites/project-flyer/.env",
+		"/Users/apple/Sites/project-flyer/app/Http/Controllers/FlyControllers.php",
+		"/Users/apple/Sites/project-flyer/tests/FlyersControllerTest.php",
+		"/Users/apple/Sites/gogulf/viessmann/xhtml/css/contact-style.css",
+		"/Users/apple/Sites/gogulf/viessmann/xhtml/contact.html",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/views/editor/diff.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/models/article_related_m.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/support/views/index.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/views/editor/form.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/controllers/ajax.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/views/editor/index.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/views/reviewer/index.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/themes/nce/views/layouts/contact.html",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/support/views/contact.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/support/language/english/support_lang.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/support/language/arabic/support_lang.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article/views/partials/fileupload.php",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/themes/nce/css/fileupload/style.css",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/themes/nce/css/fileupload/jquery.fileupload.css",
+		"/Users/apple/Sites/gogulf/nce/addons/shared_addons/themes/nce/views/layouts/explore.html",
+		"/Users/apple/Sites/project-flyer/app/Http/Requests/FlyerRequest.php",
+		"/Users/apple/Sites/project-flyer/app/Http/Flash.php",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/apple/Sites/project-flyer/resources/views/flyers/form.blade.php",
+		"/Users/apple/Sites/project-flyer/database/migrations/2015_08_25_163521_create_flyers_table.php",
+		"/Users/apple/Sites/project-flyer/app/helpers.php",
+		"/Users/apple/Sites/project-flyer/resources/views/flash.blade.php",
+		"/Users/apple/Sites/gogulf/aposource/addons/shared_addons/themes/apofront/css/style.css",
+		"/Users/apple/Sites/gogulf/aposource/addons/shared_addons/modules/press/views/partials/press_list.php",
+		"/Users/apple/Sites/gogulf/aposource/addons/shared_addons/themes/apofront/css/style-source.css",
+		"/Users/apple/Sites/gogulf/aposource/addons/shared_addons/modules/source/controllers/source.php",
+		"/Users/apple/Sites/gogulf/aposource/addons/shared_addons/modules/source/views/index.php",
+		"/Users/apple/Sites/gogulf/aposource/addons/shared_addons/modules/source/language/portuguese/source_lang.php"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 164.0,
+		"where_history":
+		[
+			"/Users/apple/Sites/college/akproject",
+			"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article",
+			"/Users/apple/Sites/gogulf/aposource/addons/shared_addons/modules/press",
+			"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article",
+			"/Applications/MAMP",
+			"/Users/apple/Sites/skrollx/gharpasal/dev",
+			"/Users/apple/Sites/gogulf/nce/addons/shared_addons/modules/article",
+			"/Users/apple/Sites/skrollx/lighthouse/system/cms/themes/skrollx",
+			"/Users/apple/Sites/skrollx/lighthouse/xhtml/lifeline",
+			"/Users/apple/Sites/nce/system/cms/language",
+			"/Users/apple/Sites/nce/system/cms/modules/users",
+			"/Users/apple/dashbrew/public/gogulf/dubuynow/addons/shared_addons/modules/ad",
+			"/Users/apple/dashbrew/public/gogulf/nce/addons/shared_addons/themes/nce",
+			"/Users/apple/dashbrew/public/skrollx/skrollx.com",
+			"/Users/apple/dashbrew/public/tawfeer/addons/shared_addons/modules"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"tags",
+			"input('roles'",
+			"roles",
+			"flyer",
+			"tags",
+			"syncRoles",
+			"tags",
+			"flyer",
+			"Flyer",
+			"is_admin",
+			"'label' => ''",
+			"trim",
+			"'name' =>",
+			"Role",
+			"role",
+			"Role",
+			"department",
+			"role",
+			"Role",
+			"department",
+			"departments",
+			"Department",
+			"User",
+			"user",
+			"name",
+			"role_name",
+			"department",
+			"Department",
+			"Departments",
+			"role_name",
+			"department",
+			"Department",
+			"Departments",
+			"::table",
+			"permission_id",
+			"permission",
+			"department",
+			"departments",
+			"epartments",
+			"flyer",
+			"flyers",
+			"company",
+			"');\n",
+			"Version",
+			"field_type_id",
+			"Description",
+			"address",
+			"publish",
+			"article->",
+			"membership",
+			"set_",
+			"$featured",
+			"featured",
+			"publish_lang",
+			"article:set_featured_success",
+			"article:unset_featured_success",
+			"article_featured",
+			"article['",
+			"tags",
+			":hover",
+			"article_id",
+			"advanced",
+			"fiew",
+			"bannerImage",
+			"$ds",
+			"//",
+			"file",
+			"userfile",
+			"                \n",
+			"this",
+			"col",
+			"span",
+			"/js",
+			"selectpicker",
+			"<select",
+			"btn",
+			"fileup",
+			"fileupload-button",
+			"preview",
+			"get_related_articles",
+			"related_articles_dropdown",
+			"<?",
+			"state",
+			"State",
+			"state",
+			"li",
+			"Flash.php",
+			"site-content",
+			".main-container article img",
+			"Política De Privacidade",
+			"#",
+			"availables",
+			"div",
+			"li",
+			"also",
+			"date",
+			"press_signature",
+			"dateline",
+			"urltolink",
+			"apo.url",
+			"apo.urlto",
+			"content",
+			"highlight",
+			"height",
+			"line",
+			"$table",
+			"\n        ",
+			"$table",
+			"city",
+			"id=\"",
+			"zip_code",
+			"id=\"",
+			"sale_price",
+			"value=\"\"",
+			"sale_price",
+			"city",
+			"theme",
+			"category_id",
+			"group_dropdown",
+			"tree_dropdown",
+			"group_dropdown",
+			"category",
+			"article img",
+			"img",
+			"<input type=\"checkbox\"",
+			"checkbox",
+			"alert",
+			"related"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#e4b200",
+			"skrollx.com.np/skytalk1",
+			"category_m->category_dropdown",
+			"js/jquery-1.10.2.min.js"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1367,
+								1367
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 953.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/HasRoles.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Controllers/UsersController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2029,
+								2029
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2049.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "database/migrations/2015_09_10_100000_create_users_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 892,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								616,
+								616
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/users/form.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1752,
+								1752
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 895.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "akproject.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hasro",
+				"app/HasRoles.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"userscont",
+				"app/Http/Controllers/UsersController.php"
+			],
+			[
+				"users/for",
+				"resources/views/users/form.blade.php"
+			],
+			[
+				"lay",
+				"resources/views/layout.blade.php"
+			],
+			[
+				"rou",
+				"app/Http/routes.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"role",
+				"database/migrations/2015_09_12_131321_create_roles_tables.php"
+			],
+			[
+				"",
+				"app/Providers/AuthServiceProvider.php"
+			],
+			[
+				"home",
+				"resources/views/pages/home.blade.php"
+			],
+			[
+				"home.",
+				"resources/views/pages/home.blade.php"
+			],
+			[
+				"home.b",
+				"resources/views/home.blade.php"
+			],
+			[
+				"auth",
+				"app/Providers/AuthServiceProvider.php"
+			],
+			[
+				"authserv",
+				"app/Providers/AuthServiceProvider.php"
+			],
+			[
+				"permi",
+				"app/Permission.php"
+			],
+			[
+				"role.",
+				"app/Role.php"
+			],
+			[
+				"role_ta",
+				"database/migrations/2015_09_12_131321_create_roles_tables.php"
+			],
+			[
+				"department/in",
+				"resources/views/departments/index.blade.php"
+			],
+			[
+				"layou",
+				"resources/views/layout.blade.php"
+			],
+			[
+				"depart",
+				"app/Http/Controllers/DepartmentController.php"
+			],
+			[
+				"layot",
+				"resources/views/layout.blade.php"
+			],
+			[
+				"pages/home",
+				"resources/views/pages/home.blade.php"
+			],
+			[
+				"layout",
+				"resources/views/layout.blade.php"
+			],
+			[
+				"departmentta",
+				"database/migrations/2015_09_10_300000_create_department_table.php"
+			],
+			[
+				"pages/hom",
+				"resources/views/pages/home.blade.php"
+			],
+			[
+				"routes",
+				"app/Http/routes.php"
+			],
+			[
+				"user.ph",
+				"app/User.php"
+			],
+			[
+				"users_ta",
+				"database/migrations/2015_09_10_100000_create_users_table.php"
+			],
+			[
+				"register.bla",
+				"resources/views/auth/register.blade.php"
+			],
+			[
+				"elix",
+				"vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php"
+			],
+			[
+				"config/hoo",
+				"cms/config/hooks.php"
+			],
+			[
+				"member/admin/fo",
+				"modules/membership/widgets/admin_members/views/form.php"
+			],
+			[
+				"membership/admin/fo",
+				"modules/membership/widgets/admin_members/views/form.php"
+			],
+			[
+				"partner/views/in",
+				"modules/partner/views/index.php"
+			],
+			[
+				"partner/views/ind",
+				"modules/partner/views/index.php"
+			],
+			[
+				"plugin",
+				"modules/urlseo/plugin.php"
+			],
+			[
+				"tag_m",
+				"article/models/article_tag_m.php"
+			],
+			[
+				"article_m",
+				"article/models/article_m.php"
+			],
+			[
+				"hea",
+				"nce/views/partials/header.html"
+			],
+			[
+				"aricle_lang",
+				"article/language/arabic/article_lang.php"
+			],
+			[
+				"article_la",
+				"article/language/english/article_lang.php"
+			],
+			[
+				"model/article",
+				"article/models/article_m.php"
+			],
+			[
+				"article/controllers/ad",
+				"article/controllers/admin.php"
+			],
+			[
+				"article/view/admin",
+				"article/views/admin/index.php"
+			],
+			[
+				"article_ta",
+				"article/models/article_tag_m.php"
+			],
+			[
+				"article/views/view",
+				"article/views/view.php"
+			],
+			[
+				"style.c",
+				"nce/css/style.css"
+			],
+			[
+				"article",
+				"article/controllers/article.php"
+			],
+			[
+				"article.ph",
+				"article/controllers/article.php"
+			],
+			[
+				"article/controllers/admin",
+				"article/controllers/admin.php"
+			],
+			[
+				"uploadfile",
+				"vendor/symfony/http-foundation/File/UploadedFile.php"
+			],
+			[
+				"photo",
+				"app/Photo.php"
+			],
+			[
+				"flye",
+				"app/Flyer.php"
+			],
+			[
+				"flyer",
+				"app/Flyer.php"
+			],
+			[
+				"show",
+				"resources/views/flyers/show.blade.php"
+			],
+			[
+				"rout",
+				"app/Http/routes.php"
+			],
+			[
+				"flyer/sh",
+				"resources/views/flyers/show.blade.php"
+			],
+			[
+				"flyerscontroller",
+				"app/Http/Controllers/FlyersController.php"
+			],
+			[
+				"conta",
+				"contact.html"
+			],
+			[
+				"article/views/dif",
+				"modules/article/views/editor/diff.php"
+			],
+			[
+				"partials/heade",
+				"nce/views/partials/header.html"
+			],
+			[
+				"flyersco",
+				"app/Http/Controllers/FlyersController.php"
+			],
+			[
+				"index.bl",
+				"resources/views/flyers/index.blade.php"
+			],
+			[
+				"flyercon",
+				"app/Http/Controllers/FlyersController.php"
+			],
+			[
+				"flyerre",
+				"app/Http/Requests/FlyerRequest.php"
+			],
+			[
+				"style-sour",
+				"apofront/css/style-source.css"
+			],
+			[
+				"source/index",
+				"modules/africarc/views/source/index.php"
+			],
+			[
+				"aside-sour",
+				"apofront/views/partials/aside-source.html"
+			],
+			[
+				"partials/side",
+				"apofront/views/partials/aside.html"
+			],
+			[
+				"script",
+				"apofront/js/scripts.js"
+			],
+			[
+				"apofront/js/apo",
+				"apofront/js/aposource.js"
+			],
+			[
+				"press/js/",
+				"modules/press/js/press.js"
+			],
+			[
+				"press/views/view",
+				"modules/press/views/view.php"
+			],
+			[
+				"source/controllers/admin",
+				"modules/source/controllers/admin.php"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"app.ph",
+				"bootstrap/app.php"
+			],
+			[
+				"form",
+				"resources/views/flyers/form.blade.php"
+			],
+			[
+				"flyer.",
+				"app/Flyer.php"
+			],
+			[
+				"flyers/create",
+				"resources/views/flyers/create.blade.php"
+			],
+			[
+				"form.bl",
+				"resources/views/flyers/form.blade.php"
+			],
+			[
+				"flyerscont",
+				"app/Http/Controllers/FlyersController.php"
+			],
+			[
+				"flyerreq",
+				"app/Http/Requests/FlyerRequest.php"
+			],
+			[
+				"hasmany",
+				"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasMany.php"
+			],
+			[
+				"eloquent.",
+				"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php"
+			],
+			[
+				"create_fly",
+				"database/migrations/2015_08_25_163521_create_flyers_table.php"
+			],
+			[
+				"flyer_photo",
+				"database/migrations/2015_08_25_164242_create_flyer_photos_table.php"
+			],
+			[
+				"app.css",
+				"public/css/app.css"
+			],
+			[
+				"create",
+				"resources/views/flyers/create.blade.php"
+			],
+			[
+				"/models/article",
+				"modules/article/models/article_m.php"
+			],
+			[
+				"editor/form",
+				"modules/article/views/editor/form.php"
+			],
+			[
+				"routes.php",
+				"app/Http/routes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "flyer",
+		"selected_items":
+		[
+			[
+				"flyer",
+				"~/Sites/project-flyer/projectflyer.sublime-project"
+			],
+			[
+				"proj",
+				"~/Sites/project-flyer/projectflyer.sublime-project"
+			],
+			[
+				"fly",
+				"~/Sites/project-flyer/projectflyer.sublime-project"
+			],
+			[
+				"tes",
+				"~/Sites/skrollx/pmtestimonial/pmtestimonial.sublime-project"
+			],
+			[
+				"pmt",
+				"~/Sites/skrollx/pmtestimonial/pmtestimonial.sublime-project"
+			],
+			[
+				"nce",
+				"~/Sites/gogulf/nce/nce.sublime-project"
+			],
+			[
+				"apos",
+				"~/Sites/gogulf/aposource/aposource.sublime-project"
+			],
+			[
+				"ak",
+				"~/Sites/college/akproject/akproject.sublime-project"
+			],
+			[
+				"pr",
+				"~/Sites/project-flyer/projectflyer.sublime-project"
+			],
+			[
+				"",
+				"~/Sites/gogulf/berkeley/berkeley.sublime-project"
+			],
+			[
+				"apo",
+				"~/Sites/gogulf/aposource/aposource.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"belongsto",
+				"belongsTo"
+			]
+		],
+		"width": 889.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
