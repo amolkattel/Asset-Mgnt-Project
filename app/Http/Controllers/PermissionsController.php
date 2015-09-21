@@ -14,6 +14,7 @@ class PermissionsController extends Controller
     public function __construct()
     {
         $this->middleware('auth');
+        $this->middleware('permission:manage_permissions');
         parent::__construct();
     }
 
@@ -48,12 +49,11 @@ class PermissionsController extends Controller
     public function store(Request $request)
     {
         $this->validate($request, [
-            'name' => 'required|unique:permissions|max:255'
+            'name' => 'required|unique:permissions|max:255',
+            'label' => 'required|unique:permissions|max:255',
         ]);
 
-        $dept = new Permission;
-        $dept->name = $request->name;
-        $dept->save();
+        (new Permission($request->all()))->save();
 
         flash()->success('Success!', 'Permission created successfully');
 
@@ -94,7 +94,8 @@ class PermissionsController extends Controller
     public function update(Request $request, $id)
     {
         $this->validate($request, [
-            'name' => 'required|unique:permissions,id,'.$id.'|max:255'
+            'name' => 'required|unique:permissions,id,'.$id.'|max:255',
+            'label' => 'required|unique:permissions,id,'.$id.'|max:255',
         ]);
 
         $permission = Permission::findOrFail($id);

@@ -1,18 +1,9 @@
 <?php
 
-/*
-|--------------------------------------------------------------------------
-| Application Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register all of the routes for an application.
-| It's a breeze. Simply tell Laravel the URIs it should respond to
-| and give it the controller to call when that URI is requested.
-|
-*/
+Route::get('/', ['as' => '/', 'uses' => 'PagesController@index']);
+Route::get('home', ['as' => 'home', 'uses' => 'PagesController@home']);
 
-Route::get('/', 'PagesController@home');
-Route::get('/home', 'PagesController@home');
+// Route::get('/map', ['as' => 'map', 'uses' => 'LocationsController@map']);
 
 Route::resource('users', 'UsersController');
 Route::get('users/delete/{id}', 'UsersController@destroy');
@@ -26,8 +17,19 @@ Route::get('permissions/delete/{id}', 'PermissionsController@destroy');
 Route::resource('departments', 'DepartmentsController');
 Route::get('departments/delete/{id}', 'DepartmentsController@destroy');
 
+Route::get('assets/map', ['as' => 'assets.map', 'uses' => 'AssetsController@map']);
+Route::get('assets/grid', ['as' => 'assets.grid', 'uses' => 'AssetsController@grid']);
 Route::resource('assets', 'AssetsController');
 Route::get('assets/delete/{id}', 'AssetsController@destroy');
+
+Route::resource('employees', 'EmployeesController');
+Route::get('employees/delete/{id}', 'EmployeesController@destroy');
+
+Route::resource('categories', 'CategoriesController');
+Route::get('categories/delete/{id}', 'CategoriesController@destroy');
+
+Route::resource('vendors', 'VendorsController');
+Route::get('vendors/delete/{id}', 'VendorsController@destroy');
 
 // Authentication routes...
 Route::get('auth/login', 'Auth\AuthController@getLogin');
@@ -37,3 +39,8 @@ Route::get('auth/logout', 'Auth\AuthController@getLogout');
 // Registration routes...
 Route::get('auth/register', 'Auth\AuthController@getRegister');
 Route::post('auth/register', 'Auth\AuthController@postRegister');
+
+// Route::get('users', ['middleware' => 'acl:manage_users', function()
+// {
+//     return redirect('/home');
+// }]);

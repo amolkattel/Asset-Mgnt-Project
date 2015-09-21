@@ -14,6 +14,7 @@ class DepartmentsController extends Controller
     public function __construct()
     {
         $this->middleware('auth');
+        $this->middleware('permission:manage_departments');
         parent::__construct();
     }
 
@@ -24,7 +25,7 @@ class DepartmentsController extends Controller
      */
     public function index()
     {
-        $departments = Department::all();
+        $departments = Department::paginate(30);
         return View('departments.index', compact('departments'));
     }
 
@@ -48,11 +49,11 @@ class DepartmentsController extends Controller
     public function store(Request $request)
     {
         $this->validate($request, [
-            'department_name' => 'required|unique:departments|max:255'
+            'name' => 'required|unique:departments|max:255'
         ]);
 
         $dept = new Department;
-        $dept->department_name = $request->department_name;
+        $dept->name = $request->name;
         $dept->save();
 
         flash()->success('Success!', 'Department created successfully');
@@ -94,7 +95,7 @@ class DepartmentsController extends Controller
     public function update(Request $request, $id)
     {
         $this->validate($request, [
-            'department_name' => 'required|unique:departments,id,'.$id.'|max:255'
+            'name' => 'required|unique:departments,id,'.$id.'|max:255'
         ]);
 
         $department = Department::findOrFail($id);

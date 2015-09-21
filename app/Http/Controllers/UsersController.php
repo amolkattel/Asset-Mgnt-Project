@@ -2,11 +2,12 @@
 
 namespace App\Http\Controllers;
 
-use App\User;
-use App\Http\Requests;
-use Illuminate\Http\Request;
-use App\Http\Requests\UserRequest;
 use App\Http\Controllers\Controller;
+use App\Http\Requests;
+use App\Http\Requests\UserRequest;
+use App\User;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 
 class UsersController extends Controller
 {
@@ -14,6 +15,7 @@ class UsersController extends Controller
     public function __construct()
     {
         $this->middleware('auth');
+        $this->middleware('permission:manage_users');
         parent::__construct();
     }
 

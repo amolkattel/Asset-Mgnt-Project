@@ -9,3 +9,9 @@
     padding-top: 20px;
     padding-bottom: 10px;
 }
+.box-search select, .box-search input{
+    min-width:100%;
+}
+.box-search .form-group:first-child{
+	min-width:250px;
+}
