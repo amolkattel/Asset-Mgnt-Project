@@ -14,6 +14,7 @@ class AssetsController extends Controller
     public function __construct()
     {
         $this->middleware('auth');
+        $this->middleware('permission:manage_assets');
         parent::__construct();
     }
     
@@ -24,9 +25,19 @@ class AssetsController extends Controller
      */
     public function index()
     {
-        $assets = Asset::all();
-
+        $assets = Asset::filter()->paginate(30);
         return View('assets.index', compact('assets'));
+    }
+
+    /**
+     * Display a listing of the resource with grid view.
+     *
+     * @return Response
+     */
+    public function grid()
+    {
+        $assets = Asset::filter()->paginate(30);
+        return View('assets.grid', compact('assets'));
     }
 
     /**
@@ -49,10 +60,21 @@ class AssetsController extends Controller
     public function store(AssetRequest $request)
     {
         $asset = new Asset($request->all());
-        $asset->save();
+        $asset->save()->saveImage();
+        
 
         flash()->success('Success!', 'Asset has been created!');
         return redirect('assets');
+    }
+
+    /**
+     * display assets with map view
+     * @return Response
+     */
+    public function map()
+    {
+        $assets = Asset::all();
+        return View('assets.map', compact('assets'));
     }
 
     /**
@@ -63,7 +85,9 @@ class AssetsController extends Controller
      */
     public function show($id)
     {
-        //
+        $asset = Asset::findOrFail($id);
+
+        return View('assets.show', compact('asset'));
     }
 
     /**
@@ -90,6 +114,7 @@ class AssetsController extends Controller
     {
         $asset = Asset::findOrFail($id);
         $asset->update($request->all());
+        $asset->saveImage($request);
         
         flash()->success('Success!', 'Asset updated successfully!');
         return redirect('assets');
@@ -103,6 +128,8 @@ class AssetsController extends Controller
      */
     public function destroy($id)
     {
-        //
+        Asset::destroy($id);
+        flash()->success('Success!', 'Asset has been deleted!');
+        return redirect('assets');
     }
 }

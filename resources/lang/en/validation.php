@@ -89,7 +89,16 @@ return [
 
     'custom' => [
         'department_id' => [
-            'required' => 'Department field is required.',
+            'required' => 'The department field is required.',
+        ],
+        'category_id' => [
+            'required' => 'The category field is required.',
+        ],
+        'vendor_id' => [
+            'required' => 'The vendor field is required.',
+        ],
+        'employee_id' => [
+            'required' => 'The employee field is required.',
         ],
     ],
 

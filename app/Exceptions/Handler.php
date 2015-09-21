@@ -46,6 +46,16 @@ class Handler extends ExceptionHandler
             $e = new NotFoundHttpException($e->getMessage(), $e);
         }
 
+        if ($e instanceof \App\Exceptions\PermissionDeniedException) {
+            flash()->error('Denied!', 'You donot have permission for the requested action!');
+            return redirect()->back();
+        }
+
+        if ($e instanceof \App\Exceptions\RoleDeniedException) {
+            flash()->error('Denied!', 'You donot have role for the requested action!');
+            return redirect()->back();
+        }
+
         return parent::render($request, $e);
     }
 }

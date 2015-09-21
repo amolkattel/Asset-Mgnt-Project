@@ -26,10 +26,10 @@ class UserRequest extends Request
     {
         $unique_vlaidation = $this->users ? 'unique:users,email,'.$this->users : 'unique:users';
         $validation = [
-            'department_id' => 'required',
             'name' => 'required|max:255',
             'email' => 'required|email|max:255|'.$unique_vlaidation,
-            'password' => 'required|confirmed|min:6'
+            'password' => 'required|confirmed|min:6',
+            'department_id' => 'required',
         ];
 
         if(empty(Request::get('password')) && $this->users)

@@ -18,5 +18,5 @@ class Department extends Model
      *
      * @var array
      */
-    protected $fillable = ['department_name'];
+    protected $fillable = ['name'];
 }
